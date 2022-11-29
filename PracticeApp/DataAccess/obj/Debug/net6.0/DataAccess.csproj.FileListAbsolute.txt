@@ -1,0 +1,60 @@
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

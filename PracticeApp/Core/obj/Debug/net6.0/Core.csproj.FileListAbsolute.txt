@@ -1,0 +1,48 @@
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\bin\Debug\net6.0\Core.dll
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\Core.dll
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\tursl\OneDrive\Desktop\CODEACADEMY\HomeWorks\HomeWork2311\TestApp\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\bin\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\tu29\n-tier-architecture\TestApp\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\bin\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\n-tier-architecture\PracticeApp\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\bin\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\LEGION\OneDrive\İş masası\PracticeApp9\PracticeApp\Core\obj\Debug\net6.0\ref\Core.dll
